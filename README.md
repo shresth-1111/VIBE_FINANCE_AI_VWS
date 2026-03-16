@@ -101,7 +101,3 @@ src/
 - Cloud deployment
 
 ---
-
-## 📜 License
-
-This project is for educational and development purposes.
